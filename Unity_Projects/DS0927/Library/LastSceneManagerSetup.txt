@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/DS0904.unity
+  isLoaded: 1
+  isActive: 1
